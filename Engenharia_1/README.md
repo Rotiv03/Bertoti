@@ -5,5 +5,7 @@
 # Não-funcionalidades do site de acordo com as heuristicas.
 
 ![Tela 1](https://user-images.githubusercontent.com/89108257/156896306-d8ce4916-fa45-4eeb-a2ba-d4085d0189d0.png)
-Utilizei heuristica 1 nessa tela.
+Utilizei a heurística 1 nesta tela.
 
+![Telaaaa](https://user-images.githubusercontent.com/89108257/156896835-35292caf-a741-4363-9904-cd63274c779b.png)
+Utilizei a heurística 8 nesta tela.
