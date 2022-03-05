@@ -12,3 +12,6 @@ Utilizei a heurística 1 nesta tela.
 
 Utilizei a heurística 8 nesta tela.
 #
+![erro](https://user-images.githubusercontent.com/89108257/156897333-3aeab214-91b5-47c3-9e10-62baafa4fa1f.png)
+
+Utilizei a heurística 9 nesta tela.
