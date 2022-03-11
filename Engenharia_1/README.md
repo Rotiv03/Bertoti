@@ -15,3 +15,8 @@ Utilizei a heurística 8 nesta tela.
 ![erro](https://user-images.githubusercontent.com/89108257/156897333-3aeab214-91b5-47c3-9e10-62baafa4fa1f.png)
 
 Utilizei a heurística 9 nesta tela.
+#
+# Diagrama de classes
+
+![vitin](https://user-images.githubusercontent.com/89108257/157956273-8f0d1bb2-16e9-4412-a4e7-418002e499cb.png)
+#
