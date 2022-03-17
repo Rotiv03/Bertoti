@@ -1,8 +1,14 @@
-# Funcionalidade do site de acordo com os casos de uso.
+Vitor Landim Blumer - RA: 1460482121027
+
+# <p align='center'> Ciclo de vida do desenvolvimento de SW <br> (Plataforma de ensino) </p>
+
+# <p align='center'> Requisito <br> </p>
+
+## Funcionalidade do site de acordo com os casos de uso.
 
 ![casos de uso](https://user-images.githubusercontent.com/89108257/156895669-be4e3a52-6c42-4ead-a4e5-25ae7e309efb.png)
 
-# Não-funcionalidades do site de acordo com as heuristicas.
+## Não-funcionalidades do site de acordo com as heuristicas.
 
 ![Tela 1](https://user-images.githubusercontent.com/89108257/156896306-d8ce4916-fa45-4eeb-a2ba-d4085d0189d0.png)
 
@@ -16,7 +22,13 @@ Utilizei a heurística 8 nesta tela.
 
 Utilizei a heurística 9 nesta tela.
 #
-# Diagrama de classes
 
-![vitin](https://user-images.githubusercontent.com/89108257/157956273-8f0d1bb2-16e9-4412-a4e7-418002e499cb.png)
+# <p align='center'> Projeto <br> </p>
+
+## Diagrama de classes
+
+![asdasdasdasdsa](https://user-images.githubusercontent.com/89108257/158827786-6bd5d322-190c-40af-b4dc-5febb6d54d10.jpg)
+
 #
+
+# <p align='center'> Desenvolvimento <br> </p>
