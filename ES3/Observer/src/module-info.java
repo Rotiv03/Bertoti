@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author lobat
+ *
+ */
+module Observer {
+}
