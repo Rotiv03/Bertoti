@@ -16,7 +16,7 @@ Strategy 2
 Observer
 </h1>
 
-![observer](https://github.com/Rotiv03/Bertoti/assets/89108257/5fb37014-b78a-4d01-a056-b5fb9ec8c065)
+
 
 
 <h1>
@@ -30,11 +30,10 @@ Composite
 Singleton
 </h1> 
 
-![singleton](https://github.com/Rotiv03/Bertoti/assets/89108257/4639e078-5ef1-42c2-a154-e77728aab15e)
 
 
 <h1>
 Facade
 </h1>
 
-![facade](https://github.com/Rotiv03/Bertoti/assets/89108257/141107fa-ef08-4108-9b46-2f8f51ca024d)
+
