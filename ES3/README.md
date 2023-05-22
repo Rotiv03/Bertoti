@@ -31,6 +31,7 @@ Composite
 Singleton
 </h1> 
 
+![image](https://github.com/Rotiv03/Bertoti/assets/89108257/e80688a2-90f8-4d16-bc41-6014ef12ed3f)
 
 
 <h1>
