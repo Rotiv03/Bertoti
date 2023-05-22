@@ -16,6 +16,7 @@ Strategy 2
 Observer
 </h1>
 
+![image](https://github.com/Rotiv03/Bertoti/assets/89108257/ccf2dccf-6b41-408a-b629-700bc2b46274)
 
 
 
