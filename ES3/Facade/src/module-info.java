@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author lobat
- *
- */
-module Facade {
-}
