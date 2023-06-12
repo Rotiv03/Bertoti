@@ -1,0 +1,3 @@
+interface LowStockObserver {
+  void update();
+}
